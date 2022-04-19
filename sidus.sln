@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sidus", "sidus.vcxproj", "{3211338E-676B-4B67-90CA-0B5E260EB79B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3211338E-676B-4B67-90CA-0B5E260EB79B}.Debug|x64.ActiveCfg = Debug|x64
+		{3211338E-676B-4B67-90CA-0B5E260EB79B}.Debug|x64.Build.0 = Debug|x64
+		{3211338E-676B-4B67-90CA-0B5E260EB79B}.Release|x64.ActiveCfg = Release|x64
+		{3211338E-676B-4B67-90CA-0B5E260EB79B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AC23083-384D-4719-849F-03AF21F6F2FF}
+	EndGlobalSection
+EndGlobal
