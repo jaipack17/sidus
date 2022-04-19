@@ -23,6 +23,14 @@ int main() {
 
 	glfwMakeContextCurrent(window);
 
+	gladLoadGL();
+
+	glViewport(0, 0, 800, 600);
+
+	glClearColor(0.9f, 0.9f, 0.9f, 1.0f);
+	glClear(GL_COLOR_BUFFER_BIT);
+	glfwSwapBuffers(window);
+
 	while (!glfwWindowShouldClose(window)) {
 
 		glfwPollEvents();
